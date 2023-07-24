@@ -74463,7 +74463,7 @@ case 1:return A.U(p,r)}})
 return A.W($async$lf,r)},
 Wn(a,b){var s=null,r=A.e_(""+a,s,s,s,s,s,s),q=b[a-1]
 return A.alY(new A.E0(r,s),new A.ahe(this,b,a),A.e_(q.c+": "+q.b,s,s,s,B.Lq,s,s),B.BA)},
-K(a){var s,r=this,q=null,p=r.a.d==="word"?"(example: WS-1-1) ...":"(example: NS-1-1) ..."
+K(a){var s,r=this,q=null,p=r.a.d==="word"?"(example: W-1-1) ...":"(example: N-1-1) ..."
 p=A.apK(q,q,q,B.AM,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,"Type a puzzle ID "+p,q,q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,A.GU(q,B.Bu,q,new A.ahj(r),q),q,q,q,q)
 p=A.fK(q,new A.yW(r.e,p,B.JP,B.IK,B.IL,new A.ahk(r),!0,q),B.t,B.j,q,q,q,q,q,B.hh,q,q,q)
 s=r.r.length
